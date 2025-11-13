@@ -34,7 +34,8 @@ terraform apply
 
 This diagram illustrates how multiple environments (Dev, QA, and Prod) are managed using Terraform workspaces.
 
-![Terraform Workspace Architecture](./images/workspace-architecture.png)
+![Terraform Workspace Architecture](images/workspace-architecture.png)
+
 
 
 ## 🧭 Roboshop Infrastructure Architecture
