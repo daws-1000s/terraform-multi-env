@@ -29,3 +29,12 @@ terraform plan
 terraform apply
 
 
+
+## 🧭 Terraform Workspace Architecture
+
+This diagram illustrates how multiple environments (Dev, QA, and Prod) are managed using Terraform workspaces.
+
+![Terraform Workspace Architecture](./images/workspace-architecture.png)
+
+
+
