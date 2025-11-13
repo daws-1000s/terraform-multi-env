@@ -38,8 +38,4 @@ This diagram illustrates how multiple environments (Dev, QA, and Prod) are manag
 
 
 
-## 🧭 Roboshop Infrastructure Architecture
-
-![Roboshop Architecture](https://raw.githubusercontent.com/daws-81s/roboshop-infra-dev/refs/heads/main/roboshop.svg)
-
-![terraform](image.png)
+![Terraform workspace](image.png)
