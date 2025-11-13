@@ -20,7 +20,7 @@ variable "common_tags" {
 }
 
 variable "tags" {
-    default = map
+    type = map
   
 }
 
